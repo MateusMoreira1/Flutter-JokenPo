@@ -1,50 +1,53 @@
-# 📱Flutter JokenPo
+# 📱 Flutter JokenPo
 
-## 🚀 About the Project
-Flutter JokenPo is an interactive and lightweight mobile game developed with Flutter, inspired by the classic Rock, Paper, Scissors game. The application provides a seamless user experience with a clean UI, randomized AI-based gameplay, and smooth animations.
+## 🚀 Sobre o Projeto
 
-Key Features:
+**Flutter JokenPo** é um jogo mobile interativo e leve, desenvolvido com **Flutter**, inspirado no clássico jogo **Pedra, Papel, Tesoura**. O aplicativo oferece uma experiência de usuário suave, com uma interface limpa, jogabilidade baseada em IA e randomização, e animações fluidas.
 
-- Real-Time Game Logic: Implements real-time game mechanics, instantly determining the winner after each move.
-- Randomized AI Opponent: Uses Dart’s Random() class to simulate unpredictable computer-generated moves.
-- Smooth UI/UX: Built with Flutter’s Material Design, ensuring a modern and responsive interface.
-- Dark Mode & Light Mode Support: The app adapts to the device's system theme for a better user experience.
-- Lightweight & Fast: Optimized for low memory consumption and smooth performance on different devices.
-- Replay Anytime: Instant game restart after each round, allowing continuous play.
+### Principais Características:
 
-The primary goal of Flutter JokenPo is to provide a fun and engaging game experience while exploring Flutter's core functionalities like state management, randomization, and responsive UI design.
+- **Lógica de Jogo em Tempo Real**: Determina instantaneamente o vencedor após cada jogada, garantindo uma experiência de jogo rápida e dinâmica.
+- **Oponente de IA Aleatório**: Utiliza a classe `Random()` do Dart para gerar movimentos imprevisíveis controlados pelo computador.
+- **UI/UX Suave**: Construído com o Material Design do Flutter, oferecendo uma interface moderna, fluida e responsiva.
+- **Suporte aos Modos Claro e Escuro**: O aplicativo se adapta automaticamente ao tema do dispositivo, proporcionando uma experiência de usuário mais agradável.
+- **Leve e Rápido**: Otimizado para baixo consumo de memória, garantindo um desempenho suave em diferentes dispositivos.
+- **Replay Anytime**: Reinício instantâneo do jogo após cada rodada, permitindo jogabilidade contínua sem interrupções.
 
+O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de jogo divertida e envolvente, ao mesmo tempo em que explora as funcionalidades essenciais do Flutter, como gerenciamento de estado, randomização e design responsivo da interface do usuário.
 
-## 🖼 Light Mode & Dark Mode Screenshots
+## 🖼 Capturas de Tela (Modo Claro e Modo Escuro)
 
-### Light & Dark Mode  
+### Modo Claro & Modo Escuro  
 <p>
   <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Flutter-JokenPo/images/darkMode.png" width="250">
 </p>
 
+## 🛠 Tecnologias Utilizadas
 
-## 🛠 Technologies Used
-- Language: Dart
-- Framework: Flutter
-- State Management: setState() (for UI updates)
-- UI & Design: Flutter Material Design with Dark Mode support
-- Randomization: Dart’s built-in Random() class for AI opponent moves
-- Device Compatibility: Android, iOS, and Web
+- **Idioma**: Dart
+- **Estrutura**: Flutter
+- **Gerenciamento de Estado**: `setState()` (utilizado para atualizações da interface)
+- **UI & Design**: Flutter Material Design, com suporte ao Modo Escuro
+- **Randomização**: Classe `Random()` do Dart para gerar movimentos do oponente de IA
+- **Compatibilidade de Dispositivos**: Android, iOS e Web
 
-## 📋 Requirements
-- Platform: Android 5.0+ / iOS 12+ / Web
-- Tools: Flutter SDK 3.10+, Dart 3.0+
-- Editor: Recommended: VS Code or Android Studio
-- Internet Connection: Not required for basic gameplay
+## 📋 Requisitos
 
-## 🎯 Learning Objectives
-During the development of Flutter JokenPo, several technical concepts were implemented and enhanced, including:
+- **Plataforma**: Android 5.0+ / iOS 12+ / Web
+- **Ferramentas**: Flutter SDK 3.10+ / Dart 3.0+
+- **Editor**: Recomendado: VS Code ou Android Studio
+- **Conexão com a Internet**: Não é necessária para a jogabilidade básica
 
-- Randomized AI Logic: Utilizing Dart’s Random() class for unpredictable game behavior.
-- State Management: Using setState() to update UI dynamically after each move.
-- Flutter UI Components: Creating an interactive interface with Material Design widgets.
-- Cross-Platform Development: Ensuring compatibility across Android, iOS, and Web.
-- Performance Optimization: Keeping the app lightweight for smooth and responsive gameplay.
+## 🎯 Objetivos de Aprendizagem
 
-Developed to deliver a fast, fun, and intuitive gaming experience for all users!
+Durante o desenvolvimento do **Flutter JokenPo**, diversos conceitos técnicos foram aplicados e aprimorados, como:
+
+- **Lógica de IA Aleatória**: Utilizando a classe `Random()` do Dart para gerar um comportamento imprevisível no jogo.
+- **Gerenciamento de Estado**: Usando `setState()` para atualizar dinamicamente a interface do usuário após cada jogada.
+- **Componentes de UI do Flutter**: Criando uma interface interativa e responsiva com os widgets do Material Design.
+- **Desenvolvimento Multiplataforma**: Garantindo compatibilidade entre Android, iOS e Web.
+- **Otimização de Desempenho**: Mantendo o aplicativo leve e rápido, proporcionando uma jogabilidade suave e responsiva.
+
+**Flutter JokenPo** foi desenvolvido para oferecer uma experiência de jogo rápida, divertida e intuitiva para todos os usuários, seja no Android, iOS ou na web!
+
