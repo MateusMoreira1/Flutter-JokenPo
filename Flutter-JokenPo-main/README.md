@@ -15,13 +15,13 @@
 
 O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de jogo divertida e envolvente, ao mesmo tempo em que explora as funcionalidades essenciais do Flutter, como gerenciamento de estado, randomização e design responsivo da interface do usuário.
 
-## 🖼 Capturas de Tela (Modo Claro e Modo Escuro)
+## 📋 Requisitos
 
-### Modo Claro & Modo Escuro  
-<p>
-  <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Flutter-JokenPo/images/darkMode.png" width="250">
-</p>
+- **Plataforma**: Android 5.0+ / iOS 12+ / Web
+- **Ferramentas**: Flutter SDK 3.10+ / Dart 3.0+
+- **Editor**: Recomendado: VS Code ou Android Studio
+- **Conexão com a Internet**: Não é necessária para a jogabilidade básica
+
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -32,12 +32,14 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 - **Randomização**: Classe `Random()` do Dart para gerar movimentos do oponente de IA
 - **Compatibilidade de Dispositivos**: Android, iOS e Web
 
-## 📋 Requisitos
 
-- **Plataforma**: Android 5.0+ / iOS 12+ / Web
-- **Ferramentas**: Flutter SDK 3.10+ / Dart 3.0+
-- **Editor**: Recomendado: VS Code ou Android Studio
-- **Conexão com a Internet**: Não é necessária para a jogabilidade básica
+## 🖼 Capturas de Tela 
+
+### Modo Claro & Modo Escuro  
+<p>
+  <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Flutter-JokenPo/images/darkMode.png" width="250">
+</p>
 
 ## 🎯 Objetivos de Aprendizagem
 
