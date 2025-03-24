@@ -37,8 +37,8 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 
 ### Modo Claro & Modo Escuro  
 <p>
-  <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Flutter-JokenPo/images/darkMode.png" width="250">
+  <img src="Flutter-JokenPo/Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Flutter-JokenPo/Flutter-JokenPo/images/darkMode.png" width="250">
 </p>
 
 ## 🎯 Objetivos de Aprendizagem
