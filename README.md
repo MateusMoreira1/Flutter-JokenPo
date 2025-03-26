@@ -42,11 +42,6 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 📹 [Clique aqui para assistir ao vídeo](Flutter-JokenPo-main/VideoJokenPo-ezgif.com-video-to-gif-converter.mp4)
 
 
-## 🎥 Demonstração em GIF  
-<p align="center">
-  <img src="Flutter-JokenPo-main/VideoJokenPo-ezgif.com-video-to-gif-converter.mp4" width="400">
-</p>
-
 ## 🎯 Objetivos de Aprendizagem
 
 Durante o desenvolvimento do **Flutter JokenPo**, diversos conceitos técnicos foram aplicados e aprimorados, como:
