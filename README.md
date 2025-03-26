@@ -39,12 +39,8 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 </p>  
 
 ## 🎥 Demonstração em Vídeo  
-<p align="center">
-  <video width="300" controls>
-    <source src="Flutter-JokenPo-main/VideoJokenPo.mp4" type="video/mp4">
-    Seu navegador não suporta a reprodução de vídeos.
-  </video>
-</p>
+📹 [Clique aqui para assistir ao vídeo](Flutter-JokenPo-main/VideoJokenPo.mp4" type="video/mp4)
+
 
 
 ## 🎯 Objetivos de Aprendizagem
