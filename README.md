@@ -41,7 +41,7 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 
 
 ## 🎥 Demonstração em Vídeo  
-📹 [Clique aqui para assistir ao vídeo](Flutter-JokenPo-main/VideoJokenPo.mp4)
+📹 [Clique aqui para assistir ao vídeo](Flutter-JokenPo/VideoJokenPo.mp4)
 
 
 
