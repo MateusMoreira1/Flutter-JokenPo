@@ -35,7 +35,7 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 
 ## 🖼 Captura de Tela  
 <p align="center">
-  <img src="Flutter-JokenPo-main/Flutter-JokenPo/images/lightMode.png" width="250">
+  <img src="Flutter-JokenPo/ImagemJokenPo.png" width="250">
 </p>
 
 
