@@ -33,13 +33,17 @@ O principal objetivo do **Flutter JokenPo** é proporcionar uma experiência de 
 - **Compatibilidade de Dispositivos**: Android, iOS e Web
 
 
-## 🖼 Capturas de Tela 
-
-### Modo Claro & Modo Escuro  
-<p>
-  <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Flutter-JokenPo/images/darkMode.png" width="250">
+## 🖼 Captura de Tela  
+<p align="center">
+  <img src="Flutter-JokenPo-main/Flutter-JokenPo/images/lightMode.png" width="250">
 </p>
+
+
+
+## 🎥 Demonstração em Vídeo  
+📹 [Clique aqui para assistir ao vídeo](Flutter-JokenPo-main/VideoJokenPo.mp4)
+
+
 
 ## 🎯 Objetivos de Aprendizagem
 
